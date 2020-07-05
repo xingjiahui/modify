@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e5f89d7-aa1e-4056-a0fa-fe72b775432e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/valine/valine.js" beforeDir="false" afterPath="$PROJECT_DIR$/valine/valine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593133865807</updated>
-      <workItem from="1593133867327" duration="401000" />
+      <workItem from="1593133867327" duration="829000" />
+      <workItem from="1593144481904" duration="79000" />
     </task>
     <servers />
   </component>
